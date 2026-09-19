@@ -1,5 +1,15 @@
 # 🤖 AI Data Analyst Agent
 
+> Ask questions about e-commerce data in natural language and get AI-generated insights from PostgreSQL.
+
+## 🚀 Live Demo
+
+[![Open Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-data-analyst-agent-dxquvd474xzygrt4fusnwa.streamlit.app/)
+
+**[👉 Open the Live Demo](https://ai-data-analyst-agent-dxquvd474xzygrt4fusnwa.streamlit.app/)**
+
+# 🤖 AI Data Analyst Agent
+
 An AI-powered data analytics application that allows users to ask questions about e-commerce data in natural language. The agent converts the question into SQL using Google Gemini, validates the generated SQL for safety, executes the approved query against PostgreSQL, and presents the result through KPI cards, tables, charts, and an optional AI-generated explanation.
 
 ## 📌 Project Overview
@@ -812,7 +822,7 @@ The project combines:
 
 ---
 
-# 💼 Resume Project Description
+# 💼 Project Description
 
 **AI Data Analyst Agent | Python, Gemini, PostgreSQL, Streamlit, SQL, Plotly**
 
@@ -822,7 +832,7 @@ The project combines:
 
 ---
 
-# 🎤 Interview Explanation
+# 🎤 Platform Explanation
 
 A simple way to explain the project:
 
