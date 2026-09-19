@@ -4,7 +4,6 @@
 
 ## 🚀 Live Demo
 
-[![Open Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-data-analyst-agent-dxquvd474xzygrt4fusnwa.streamlit.app/)
 
 **[👉 Open the Live Demo](https://ai-data-analyst-agent-dxquvd474xzygrt4fusnwa.streamlit.app/)**
 
